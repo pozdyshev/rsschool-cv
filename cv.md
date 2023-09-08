@@ -1,4 +1,8 @@
-init: start cv1
-My name is Vitaly
-My first in ny git
+https://pozdyshev.github.io/rsschool-cv/cv
+
+#Vitaly Pozdyshev 
+---
+##Contacts
+***
+*Phone: One+ 10pro
 
