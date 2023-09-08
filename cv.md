@@ -1,8 +1,9 @@
 https://pozdyshev.github.io/rsschool-cv/cv
 
-#Vitaly Pozdyshev 
+# Vitaly Pozdyshev 
 ---
-##Contacts
+## Contacts
 ***
 *Phone: One+ 10pro
+===
 
